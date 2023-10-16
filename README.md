@@ -1,5 +1,9 @@
 # Indebted Take Home Exercise – Message Scheduling
 
+##notes
+script.R contains the code used to create the output (output.xlsx). please note this was completed using only an iphone, so I have been extremely limited in the possible analysis.
+
+
 ## Provided Information 
 ### Question
 What time of day and day of week should we send messages to our customers to encourage them to clear their debt to the best of their capacities?
